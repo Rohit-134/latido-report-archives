@@ -1,6 +1,6 @@
 @echo off
 
-set "sourceDir=E:\POM_for_Bottle\Reports"
+set "sourceDir=E:\POM_for_Bottle\report-archives"
 set "destinationDir=E:\POM_for_Bottle\report"
 set "folderName=history"
 
@@ -35,4 +35,4 @@ echo Folder copied successfully to the history folder.
 set /p id=Enter date:
 
 echo Generating Allure Report started...
-allure generate ../report --clean --output ../Reports/%id%
+allure generate ../report --clean --output ../report-archives/%id%

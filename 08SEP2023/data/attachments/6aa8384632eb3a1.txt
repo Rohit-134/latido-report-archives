@@ -1,0 +1,26 @@
+ERROR    Inventory:InventoryPage.py:434 Couldn't find the Element to Upload Bill : 
+ Message: invalid argument: File not found : E:\POM_for_Bottle\WebApp\TestData\InventoryData\Image\Receipt.png
+  (Session info: chrome=116.0.5845.142)
+Stacktrace:
+	GetHandleVerifier [0x00FF37C3+48947]
+	(No symbol) [0x00F88551]
+	(No symbol) [0x00E8C92D]
+	(No symbol) [0x00EB53A9]
+	(No symbol) [0x00ED508C]
+	(No symbol) [0x00EB2EB6]
+	(No symbol) [0x00ED53E4]
+	(No symbol) [0x00EE75DA]
+	(No symbol) [0x00ED4E86]
+	(No symbol) [0x00EB16C7]
+	(No symbol) [0x00EB284D]
+	GetHandleVerifier [0x0123FDF9+2458985]
+	GetHandleVerifier [0x0128744F+2751423]
+	GetHandleVerifier [0x01281361+2726609]
+	GetHandleVerifier [0x01070680+560624]
+	(No symbol) [0x00F9238C]
+	(No symbol) [0x00F8E268]
+	(No symbol) [0x00F8E392]
+	(No symbol) [0x00F810B7]
+	BaseThreadInitThunk [0x76227BA9+25]
+	RtlInitializeExceptionChain [0x776BB79B+107]
+	RtlClearBits [0x776BB71F+191]

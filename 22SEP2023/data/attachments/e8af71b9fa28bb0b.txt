@@ -1,0 +1,26 @@
+ERROR    TrackOrder_module:TrackOrderPage.py:67 Couldn't find the Element to Check Factory Check: 
+ Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='ant-col table-content ant-col-sm-6']/div[contains(@class, 'unActive')]"}
+  (Session info: chrome=117.0.5938.92)
+Stacktrace:
+	GetHandleVerifier [0x00DBCEB3+45171]
+	(No symbol) [0x00D49101]
+	(No symbol) [0x00C3BE1D]
+	(No symbol) [0x00C6ED40]
+	(No symbol) [0x00C6F20B]
+	(No symbol) [0x00C9F692]
+	(No symbol) [0x00C8B094]
+	(No symbol) [0x00C9DCFA]
+	(No symbol) [0x00C8AE46]
+	(No symbol) [0x00C6675E]
+	(No symbol) [0x00C678FD]
+	GetHandleVerifier [0x010754B9+2897529]
+	GetHandleVerifier [0x010BDC6B+3194411]
+	GetHandleVerifier [0x010B7A41+3169281]
+	GetHandleVerifier [0x00E46130+606960]
+	(No symbol) [0x00D52E7C]
+	(No symbol) [0x00D4F008]
+	(No symbol) [0x00D4F12F]
+	(No symbol) [0x00D41827]
+	BaseThreadInitThunk [0x76707BA9+25]
+	RtlInitializeExceptionChain [0x77BEB79B+107]
+	RtlClearBits [0x77BEB71F+191]

@@ -1,0 +1,64 @@
+ERROR    Product_management:ProductManagementPage.py:452 Unable to Find edit button for the Product : Message: stale element reference: stale element not found
+  (Session info: chrome=116.0.5845.180)
+Stacktrace:
+	GetHandleVerifier [0x00A537C3+48947]
+	(No symbol) [0x009E8551]
+	(No symbol) [0x008EC92D]
+	(No symbol) [0x008EFD62]
+	(No symbol) [0x008F106A]
+	(No symbol) [0x008F1110]
+	(No symbol) [0x0091E147]
+	(No symbol) [0x0091CCCB]
+	(No symbol) [0x0091B74B]
+	(No symbol) [0x0091ABA5]
+	(No symbol) [0x00913420]
+	(No symbol) [0x0093508C]
+	(No symbol) [0x00912EB6]
+	(No symbol) [0x009353E4]
+	(No symbol) [0x009475DA]
+	(No symbol) [0x00934E86]
+	(No symbol) [0x009116C7]
+	(No symbol) [0x0091284D]
+	GetHandleVerifier [0x00C9FDF9+2458985]
+	GetHandleVerifier [0x00CE744F+2751423]
+	GetHandleVerifier [0x00CE1361+2726609]
+	GetHandleVerifier [0x00AD0680+560624]
+	(No symbol) [0x009F238C]
+	(No symbol) [0x009EE268]
+	(No symbol) [0x009EE392]
+	(No symbol) [0x009E10B7]
+	BaseThreadInitThunk [0x76227BA9+25]
+	RtlInitializeExceptionChain [0x776BB79B+107]
+	RtlClearBits [0x776BB71F+191]
+
+ERROR    Product_management:ProductManagementPage.py:458 Unable to Find Name field : Message: 
+Stacktrace:
+	GetHandleVerifier [0x00A537C3+48947]
+	(No symbol) [0x009E8551]
+	(No symbol) [0x008EC92D]
+	(No symbol) [0x00919E38]
+	(No symbol) [0x00919EFB]
+	(No symbol) [0x00948EF2]
+	(No symbol) [0x009350D4]
+	(No symbol) [0x009475DA]
+	(No symbol) [0x00934E86]
+	(No symbol) [0x009116C7]
+	(No symbol) [0x0091284D]
+	GetHandleVerifier [0x00C9FDF9+2458985]
+	GetHandleVerifier [0x00CE744F+2751423]
+	GetHandleVerifier [0x00CE1361+2726609]
+	GetHandleVerifier [0x00AD0680+560624]
+	(No symbol) [0x009F238C]
+	(No symbol) [0x009EE268]
+	(No symbol) [0x009EE392]
+	(No symbol) [0x009E10B7]
+	BaseThreadInitThunk [0x76227BA9+25]
+	RtlInitializeExceptionChain [0x776BB79B+107]
+	RtlClearBits [0x776BB71F+191]
+
+ERROR    Product_management:ProductManagementPage.py:464 Unable to Find category field : 'str' object is not callable
+ERROR    Product_management:ProductManagementPage.py:470 Unable to Find Tag field : 'str' object is not callable
+ERROR    Product_management:ProductManagementPage.py:476 Unable to Find Hardware field : 'str' object is not callable
+ERROR    Product_management:ProductManagementPage.py:482 Unable to Find Lining field : 'str' object is not callable
+ERROR    Product_management:ProductManagementPage.py:491 Unable to Find Polyfill field : 'str' object is not callable
+ERROR    Product_management:ProductManagementPage.py:500 Unable to Find rib field : 'str' object is not callable
